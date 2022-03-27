@@ -1,6 +1,6 @@
 Hi, I’m @Slamacus, audio-video tech student about to graduate. <br>
 I’m interested in front-end developement, web design and video-editing. <br>
-I’m currently learning JavaScript. <br>
+I’m currently learning JavaScript. <br> <br>
 @AndrijaIvkovic1 on Twitter
 
 <!---
